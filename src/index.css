@@ -1,0 +1,21 @@
+.card-title {
+  color: #0056b3;
+  font-size: 30px;
+}
+
+.card-body {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+}
+
+.card {
+  border: none;
+  margin-bottom: 1rem;
+}
+
+.photo {
+    height: auto; 
+    width: auto; 
+    max-width: 150px; 
+    max-height: 150px;
+}
